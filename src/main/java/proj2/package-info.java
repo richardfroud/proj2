@@ -1,0 +1,4 @@
+
+@ImmutablesCodeGenRules
+package proj2;
+
